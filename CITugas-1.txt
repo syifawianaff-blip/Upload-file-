@@ -1,0 +1,26 @@
+class AlatMusik:
+    nama1 = "Gitar "
+        jenis1 = "string"
+            bahan1 = "Kayu Mahoni"
+                asal1 = "Spanyol"
+                    harga1 = "Rp 1.500.000"
+                        nama2 = "Piano"
+                            jenis2 = "kayboard"
+                                bahan2 = "Plastik & Metal"
+                                    asal2 = "italia"
+                                        harga2 = "Rp 5.500.000"
+
+
+                                        alat1 = AlatMusik()
+                                        alat2 = AlatMusik()
+
+                                        print(alat1.nama1)
+                                        print(alat1.jenis1)
+                                        print(alat1.bahan1)
+                                        print(alat1.asal1)
+                                        print(alat1.harga1)
+                                        print(alat2.nama2)
+                                        print(alat2.jenis2)
+                                        print(alat2.bahan2)
+                                        print(alat2.asal2)
+                                        print(alat2.harga2)
